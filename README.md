@@ -1,5 +1,3 @@
-# spotify-top10-predictor
-
 # Will It hit the Top 10?
 
 Can we predict whether a song reaches the Top 10 on Spotify in a country, using only what the song sounds like and basic facts about it?
